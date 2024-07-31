@@ -24,4 +24,13 @@ This project demonstrates the setup of a network-based intrusion detection syste
    git clone https://github.com/your-username/your-repository.git
    cd your-repository
 
- Refer to the or docs/installation.md for detailed installation steps.
+ 
+### 3. **Usage**
+
+
+```markdown
+## Usage
+
+1. **Run Snort:**
+   ```bash
+   sudo snort -c /etc/snort/snort.conf -i eth0
