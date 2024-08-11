@@ -8,29 +8,18 @@ This project demonstrates the setup of a network-based intrusion detection syste
   - Real-time network traffic analysis
   - Customizable rules for detecting suspicious activities
   - Logging and alerting mechanisms
-  - Visualization options (e.g., using Snorby)
  
     
 ### Prerequisites
 
-- A Linux-based operating system (e.g., Ubuntu)
+- A Linux-based operating system (e.g., Kali)
 - Administrative access (sudo privileges)
 - Basic knowledge of network security concepts
+- Metasploitable
 
 ### Installation
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+Step 1: Start Your Kali Linux
+Step 2: Start your Metasploitable
+Step 3: Go to Kali linux terminal and install the dependencies mentioned below
 
- 
-### 3. **Usage**
-
-
-```markdown
-## Usage
-
-1. **Run Snort:**
-   ```bash
-   sudo snort -c /etc/snort/snort.conf -i eth0
