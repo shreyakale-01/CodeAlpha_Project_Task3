@@ -94,13 +94,13 @@ This project demonstrates the setup of a network-based intrusion detection syste
 **Step 1**: Find the location of configuration file.
  You will find configuration file at below locations (You have to find the location of configuration file.)
      
-      **/etc/snort/snort.lua** 
+      /etc/snort/snort.lua 
   or   
      
-     **/etc/snort/lua/snort.lua**
+     /etc/snort/lua/snort.lua
   or   
     
-    **/etc/snort/snort/lua/snort.lua**
+    /etc/snort/snort/lua/snort.lua
 
 ![Screenshot 2024-08-11 114336](https://github.com/user-attachments/assets/8e943674-8d15-4495-8641-84f85a72ea3c)
 ![Screenshot 2024-08-11 114413](https://github.com/user-attachments/assets/778c3b8a-9d84-4bc1-b8c5-01cfa8c69535)
