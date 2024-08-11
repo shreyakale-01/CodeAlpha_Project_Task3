@@ -23,6 +23,8 @@ Step 1: Start Your Kali Linux
 
 Step 2: Start your Metasploitable
 
-Step 3: Go to Kali linux terminal and install the dependencies mentioned below
+Step 3: Go to Kali linux root terminal and install the dependencies mentioned below
 
 sudo apt-get install -y build-essential autotools-dev libdumbnet-dev libluajit-5.1-dev libpcap-dev zlib1g-dev pkg-config libhwloc-dev cmake liblzma-dev openssl libssl-dev cpputest libsqlite3-dev libtool uuid-dev git autoconf bison flex libcmocka-dev libnetfilter-queue-dev libunwind-dev libmnl-dev ethtool libjemalloc-dev
+
+![Screenshot 2024-08-11 113940](https://github.com/user-attachments/assets/992d1c87-a485-4833-9a26-044118004aa1)
